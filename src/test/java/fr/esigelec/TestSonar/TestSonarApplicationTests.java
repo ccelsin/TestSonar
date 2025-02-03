@@ -8,6 +8,8 @@ class TestSonarApplicationTests {
 
 	@Test
 	void contextLoads() {
+		// Cette méthode est vide car elle sera implémentée dans un test futur.
+
 	}
 
 }
